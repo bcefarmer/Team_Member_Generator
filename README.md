@@ -41,7 +41,7 @@ fileRevision().
 
 # Installation-Instructions
 
-You'll need [Node](https://nodejs.org/en/download/).  Inquirer can be installed via the Node Package Manager (NPM) - instructions for which can be found [here](https://www.npmjs.com/package/inquirer).
+You'll need [Node](https://nodejs.org/en/download/) installed on your device.  Inquirer can be installed via the Node Package Manager (NPM) - instructions for which can be found [here](https://www.npmjs.com/package/inquirer).
 
 ---
 
